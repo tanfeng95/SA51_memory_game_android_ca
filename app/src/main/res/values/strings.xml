@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageDLExplicitBroadcast</string>
+    <string name="downloading">Downloading in progress ...</string>
+    <string name="service_ended">Download Service ended.</string>
+</resources>
